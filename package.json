@@ -30,7 +30,6 @@
         "vscode": "^1.1.21"
     },
     "dependencies": {
-        "axios": "^0.18.0",
-        "ip": "^1.1.5"
+        "network": "^0.4.1"
     }
 }
