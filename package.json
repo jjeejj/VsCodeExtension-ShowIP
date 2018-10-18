@@ -2,8 +2,9 @@
     "name": "ShowIp",
     "displayName": "ShowIp",
     "description": "显示本机的内网和公网IP地址",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "jjeejj",
+    "icon": "logo.png",
     "repository": "https://github.com/jjeejj/VsCodeExtension-ShowIP",
     "engines": {
         "vscode": "^1.25.0"
